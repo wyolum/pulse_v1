@@ -1,0 +1,13 @@
+(module PCB (layer F.Cu) (tedit 50F519A5)
+  (fp_text reference PCB1 (at -0.889 -0.5715) (layer F.SilkS) hide
+    (effects (font (size 0.381 0.381) (thickness 0.0762)))
+  )
+  (fp_text value PCB (at -0.6985 0) (layer F.SilkS) hide
+    (effects (font (size 0.381 0.381) (thickness 0.0762)))
+  )
+  (model pulse_Libs/pulse_3D/PCB_Material_3D.wrl
+    (at (xyz 0 0 -0.03))
+    (scale (xyz 0.118 0.6 0.045))
+    (rotate (xyz 90 0 0))
+  )
+)

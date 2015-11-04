@@ -1,0 +1,15 @@
+### Module positions - created on Wed Nov  4 22:58:23 2015 ###
+### Printed by Pcbnew version kicad 0.201511011201+6288~30~ubuntu15.10.1-product
+## Unit = inches, Angle = deg.
+## Side : top
+# Ref    Val                  Package         PosX       PosY        Rot     Side
+C2       100n             c_0805              1.7250    -1.2425      90.0    top
+D2       Z5V1             SOD323F             1.6425    -1.2300      90.0    top
+D3       1N4448WT         SOD523F             1.7700    -1.3725       0.0    top
+K2       ISP              pin_strip_6b        1.5675    -1.0600       0.0    top
+P1       LAMP             pin_strip_2         1.9325    -1.1550      90.0    top
+P2       12V              Header_12V          1.1100    -1.2050      90.0    top
+PCB1     PCB              PCB                 1.6250    -1.2050       0.0    top
+R2       470E             r_0805              1.8225    -1.2250      90.0    top
+U1       ATTINY45-20SU    SO8N                1.4350    -1.2625     270.0    top
+## End

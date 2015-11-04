@@ -1,0 +1,11 @@
+### Module positions - created on Wed Nov  4 22:58:23 2015 ###
+### Printed by Pcbnew version kicad 0.201511011201+6288~30~ubuntu15.10.1-product
+## Unit = inches, Angle = deg.
+## Side : bottom
+# Ref    Val                  Package         PosX       PosY        Rot     Side
+C1       10n              c_0805              1.4150    -1.2525      90.0    bottom
+D1       Z5V1             SOD323F             1.3175    -1.2525      90.0    bottom
+Q1       2N7000           SOT23-3             1.7700    -1.2375      90.0    bottom
+R1       4K7              r_0805              1.5150    -1.2500      90.0    bottom
+R3       2k2              r_0805              1.6150    -1.2425     270.0    bottom
+## End
