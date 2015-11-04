@@ -2,9 +2,7 @@
 Breathing LED lamp for Motorcycle using ATtiny
 =======
 
-![pulse_v1 top](https://github.com/wyolum/bebl_v2/blob/master/kicad/images/bebl_v2_07.png)
-
-![pulse_v1 bottom](https://github.com/wyolum/bebl_v2/blob/master/kicad/images/bebl_v2_08.png)
+![pulse_v1 top](https://github.com/wyolum/pulse_v1/blob/master/pulse_Images/pulse_02.png)
 
 License
 -------
